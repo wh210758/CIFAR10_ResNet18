@@ -11,6 +11,11 @@
 | **Test Loss**         | 0.1803       |                           |
 | **Train Accuracy**    | 100.0%       | 模型充分收敛              |
 | **Training Time**     | ~1.5 小时    | on NVIDIA RTX 4060 Laptop |
+<img width="1220" height="406" alt="{4188892B-88F4-4167-AAD6-F2A72EA33A3D}" src="https://github.com/user-attachments/assets/7672206f-636d-431c-9b17-e97bb180574c" />
+<img width="1215" height="397" alt="{B2AC8468-2055-477E-AEED-3CE40E5132DE}" src="https://github.com/user-attachments/assets/b43fe7e2-0f11-4d69-9b76-b9826a3d724c" />
+<img width="1217" height="406" alt="{BA52F39C-4B8A-4F36-9ADB-E0A709042422}" src="https://github.com/user-attachments/assets/c46dcdb1-dd2a-434a-9885-75b1cf24beef" />
+<img width="1220" height="410" alt="{29DD7562-C66C-4B62-B881-5D5C8964E24B}" src="https://github.com/user-attachments/assets/5e28948a-5bfc-4e02-91a2-0305f3589eb0" />
+
 
 ##  项目结构
 
