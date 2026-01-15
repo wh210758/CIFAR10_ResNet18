@@ -30,3 +30,26 @@ Thumbs.db
 
 # Training outputs
 training_summary.txt
+
+
+.env
+.env.*
+*.secret
+
+*.pth
+*.pt
+*.h5
+*.onnx
+*.pkl
+
+*.png
+*.jpg
+*.svg
+
+
+
+dist/
+build/
+.pytest_cache/
+htmlcov/
+.coverage
